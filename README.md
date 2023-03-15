@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dewmina_uday" target="blank"><img src="https://img.shields.io/twitter/follow/dewmina_uday?logo=twitter&style=for-the-badge" alt="dewmina_uday" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Inventory Management Application**
-
 - 🌱 I’m currently learning **Advance App Development Concepts**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DewminaUdayashan?tab=repositories](https://github.com/DewminaUdayashan?tab=repositories)
-
-- 📝 I regularly contribute on [https://stackoverflow.com/users/19136999/dewmina-udayashan](https://stackoverflow.com/users/19136999/dewmina-udayashan)
 
 - 💬 Ask me about **Flutter, Dart**
 
