@@ -9,21 +9,21 @@
 
 - 🌱 I’m currently learning **Advanced Mobile App Developement Concepts**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DewminaUdayashan?tab=repositories](https://github.com/DewminaUdayashan?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/DewminaUdayashan?tab=repositories)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **dewminaudayashan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sf-y34tWoipCaYChvRo36y-nzIMxj8YQ/view?usp=share_link](https://drive.google.com/file/d/1Sf-y34tWoipCaYChvRo36y-nzIMxj8YQ/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Sf-y34tWoipCaYChvRo36y-nzIMxj8YQ/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dewwuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dewwuday" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dewmina-udayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewmina-udayashan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dewmina-udayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dewmina-udayashan" height="30" width="40" /></a>
-<a href="https://fb.com/dewmina udayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dewmina udayashan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ceylon coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ceylon coder" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19136999/dewmina-udayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dewmina-udayashan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100080957793889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dewmina udayashan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ceyloncoder520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ceylon coder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
