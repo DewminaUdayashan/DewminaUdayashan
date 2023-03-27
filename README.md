@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Advanced Mobile App Developement Concepts**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/DewminaUdayashan?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/DewminaUdayashan?tab=repositories)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **dewminaudayashan@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Sf-y34tWoipCaYChvRo36y-nzIMxj8YQ/view?usp=share_link)
+- 📄 Get my resume from [here](https://drive.google.com/file/d/1Sf-y34tWoipCaYChvRo36y-nzIMxj8YQ/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
