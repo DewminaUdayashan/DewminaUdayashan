@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dewminaudayashan@gmail.com**
 
-- 📄 Get my resume from [here](https://drive.google.com/file/d/1Sf-y34tWoipCaYChvRo36y-nzIMxj8YQ/view?usp=share_link)
+- 📄 Get my resume from [here]([https://drive.google.com/file/d/1Sf-y34tWoipCaYChvRo36y-nzIMxj8YQ/view?usp=share_link](https://drive.google.com/file/d/1_bg5u-79ZOkN883RqC0AZkKupEIJBkqs/view?usp=share_link))
 
 - 📱 Find my Flutter packages at [Pub.dev](https://pub.dev/publishers/infoowly.com/packages)
 
