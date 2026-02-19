@@ -1,42 +1,91 @@
-<h1 align="center">Hi 👋, I'm Dewmina</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Dewmina Udayashan</h1>
+  <h3>Mobile Application Engineer | Flutter Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dewminaudayashan&label=Profile%20views&color=0e75b6&style=flat" alt="dewminaudayashan" /> </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dewminaudayashan&label=Profile%20views&color=0e75b6&style=flat-square" alt="dewminaudayashan profile views" />
+    <a href="https://twitter.com/dewwuday" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/dewwuday?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter Follow" />
+    </a>
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewminaudayashan" alt="dewminaudayashan" /></a> </p>
+  <p align="center">
+    <a href="https://dewmina.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Website-dewmina.dev-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://pub.dev/publishers/dewmina.dev/packages" target="_blank">
+      <img src="https://img.shields.io/badge/Pub.dev-Packages-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Pub.dev" />
+    </a>
+    <a href="https://linkedin.com/in/dewmina-udayashan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.youtube.com/@ceyloncoder520" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/dewwuday" target="blank"><img src="https://img.shields.io/twitter/follow/dewwuday?logo=twitter&style=for-the-badge" alt="dewwuday" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Advanced Mobile App Developement Concepts**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available [here](https://github.com/DewminaUdayashan?tab=repositories)
+- 📱 I specialize in building cross-platform mobile applications using **Flutter & Dart**.
+- ⚙️ I develop robust backend services and APIs using technologies like **NestJS** and **Node.js**.
+- 🌱 I’m currently exploring **Advanced Mobile App Development, autonomous AI agents, and LLMs**.
+- 🚀 Check out my apps on my [Google Developer Page](https://play.google.com/store/apps/developer?id=Dewmina+Udayashan) or my open-source packages on [Pub.dev](https://pub.dev/publishers/dewmina.dev/packages).
+- 📄 Want to know more? [View my Resume](https://drive.google.com/file/d/1_bg5u-79ZOkN883RqC0AZkKupEIJBkqs/view?usp=share_link) or visit my website at **[dewmina.dev](https://dewmina.dev)**.
+- 📫 How to reach me: **[dewminaudayashan@gmail.com](mailto:dewminaudayashan@gmail.com)**.
 
-- 📱 Visit my Google Developer page [here](https://play.google.com/store/apps/developer?id=Dewmina+Udayashan) 
+---
 
-- 💬 Ask me about **Flutter**
+### 🛠️ Languages and Tools
 
-- 📫 How to reach me **dewminaudayashan@gmail.com**
-
-- 📄 Get my resume from [here](https://drive.google.com/file/d/1_bg5u-79ZOkN883RqC0AZkKupEIJBkqs/view?usp=share_link)
-
-- 📱 Find my Flutter packages at [Pub.dev](https://pub.dev/publishers/infoowly.com/packages)
-
-- 🎥 Find me on [YouTube](https://www.youtube.com/@ceyloncoder520/videos)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dewwuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dewwuday" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dewmina-udayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewmina-udayashan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19136999/dewmina-udayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dewmina-udayashan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100080957793889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dewmina udayashan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ceyloncoder520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ceylon coder" height="30" width="40" /></a>
+**Mobile & Frontend** <p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+**Backend & Database** <p align="left">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewminaudayashan&show_icons=true&locale=en&layout=compact" alt="dewminaudayashan" /></p>
+**Cloud & DevOps** <p align="left">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dewminaudayashan&show_icons=true&locale=en" alt="dewminaudayashan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewminaudayashan&" alt="dewminaudayashan" /></p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dewminaudayashan&theme=radical&margin-w=15" alt="Trophy" />
+  </a>
+</div>
+<br/>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dewminaudayashan&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewminaudayashan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewminaudayashan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
