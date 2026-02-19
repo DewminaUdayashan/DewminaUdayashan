@@ -33,7 +33,7 @@
 - ⚙️ I develop robust backend services and APIs using technologies like **NestJS** and **Node.js**.
 - 🌱 I’m currently exploring **Advanced Mobile App Development, autonomous AI agents, and LLMs**.
 - 🚀 Check out my apps on my [Google Developer Page](https://play.google.com/store/apps/developer?id=Dewmina+Udayashan) or my open-source packages on [Pub.dev](https://pub.dev/publishers/dewmina.dev/packages).
-- 📄 Want to know more? [View my Resume](https://drive.google.com/file/d/1_bg5u-79ZOkN883RqC0AZkKupEIJBkqs/view?usp=share_link) or visit my website at **[dewmina.dev](https://dewmina.dev)**.
+- 🌎 Visit my website at **[dewmina.dev](https://dewmina.dev)**.
 - 📫 How to reach me: **[dewminaudayashan@gmail.com](mailto:dewminaudayashan@gmail.com)**.
 
 ---
@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
 **Backend & Database** <p align="left">
@@ -59,6 +60,7 @@
 
 **Cloud & DevOps** <p align="left">
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -68,24 +70,17 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dewminaudayashan&theme=radical&margin-w=15" alt="Trophy" />
   </a>
-</div>
-<br/>
+</p>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dewminaudayashan&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewminaudayashan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dewminaudayashan&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dewminaudayashan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewminaudayashan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
